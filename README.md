@@ -2,9 +2,13 @@
 
 [Claude Code](https://www.claudezip.cn?utm_source=github&utm_medium=article&utm_campaign=claude-code-qidongqi) 是 Anthropic 推出的 AI 编程助手，具备强大的自动编程能力。但官方版本在中文环境下门槛较高：安装依赖 Node.js、npm，要求熟悉命令行操作，且仅支持英文交互。
 
-这篇教程旨在解决以上痛点，帮助中文用户在中文电脑上**零门槛、零配置**一键使用 Claude Code。
+这系列教程旨在解决以上痛点，帮助中文用户在中文电脑上**零门槛、零配置**一键使用 Claude Code。
 
----
+
+
+https://github.com/user-attachments/assets/9c697989-9619-404c-be9d-cfe84e5e9644
+
+
 
 ## 教程目标
 
