@@ -1,5 +1,8 @@
 # 实战演练：5分钟看懂 Claude Code 在干嘛
 
+https://github.com/user-attachments/assets/5a1d845e-3824-413c-abca-15c87cccde66
+
+
 在前面的文章中，我们分享了如何在[三分钟内完成 Claude Code 的安装](how-to-use-claude-code.md "免安装使用 Claude Code")。下面，我将带大家深入实战，演示使用 Claude Code 执行一次完整任务的全过程，并教大家如何看懂它的各种输出信息。
 
 在 AI 编程圈，很多博主喜欢展示“一句话生成酷炫网页”，但在实际开发中，缺乏约束的发挥往往难以落地。**Claude Code 的核心强项在于它能贴合任务情景，像一个有记性的“监工”一样高效工作**。
