@@ -1,5 +1,7 @@
 # 理解 Claude Code 的上下文与会话管理机制
 
+https://github.com/user-attachments/assets/392fba27-e0d0-4129-a2e9-a8e0df59646f
+
 在前面的文章中，我们[使用 Claude Code 执行一次完整任务的全过程，并教大家如何看懂它的各种输出信息](walk-through.md "5分钟看懂 Claude Code 在干嘛")。
 
 在利用 Claude Code 开展人工智能辅助编程的过程中，许多开发者会发现 AI 的响应速度随任务推进而逐渐减慢。
