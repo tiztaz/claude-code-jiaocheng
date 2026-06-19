@@ -2,6 +2,11 @@
 
 继上篇安装教程之后，今天我们直接进入实战。如果你是刚接触 AI 编程的新手，千万别被“编程”这两个字吓到。Claude Code 的设计初衷就是为了让开发变得超级简单。
 
+
+https://github.com/user-attachments/assets/cb819ed8-f064-452f-b0c7-d2cd56ec618b
+
+
+
 ## 第一步：开启你的“工作目录”
 
 ![启动 Claude Code 后，在开始画面中选择打开项目目录。](images/getting-started-01.jpg)
