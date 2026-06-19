@@ -1,5 +1,7 @@
 # 任务历史面板：浏览 Claude Code 的完整任务对话，让 AI 编程更连贯
 
+https://github.com/user-attachments/assets/3e057d61-35f8-4982-bbf3-9dfcf90e2913
+
 ## Claude Code 自带的 `/resume` 命令不好用
 
 在使用 Claude Code 时，一个常见的场景是：**需要回到之前完成了一半的任务，继续之前的工作**。
